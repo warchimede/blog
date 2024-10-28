@@ -3,7 +3,7 @@
 | date | title | description | tags |
 |-|-|-|-|
 | 2024-10-08 | [How to remove bitcode from a framework](./posts/2024-10-08-how-to-remove-bitcode-from-framework.md) | Use `xcrun bitcode_strip` | `ios`, `xcode`, `command-line` |
-| 2024-09-21 | [How to remove unused simulator runtimes](./posts/2024-09-21-how-to-remove-unused-simulator-runtimes.md) | Use `xcrun simctl` to free some disk space | `ios`, `xcode`, `command-line` |
+| 2024-09-21 | [How to remove unused simulator runtimes](./posts/2024-09-21-how-to-remove-unused-simulator-runtimes.md) | Use `xcrun simctl` to free some disk space | `ios`, `xcode`, `command-line` |
 | 2021-07-09 | [How to re-sign an `.xcarchive` and export to `.ipa` for App Store submission](./posts/2021-07-05-how-to-re-sign-xcarchive-export-ipa.md) | When you ask for an apple pie and you get lemonade, use PlistBuddy and codesign | `ios`, `command-line` |
 | 2021-03-25 | [How to check which signing certificate is able to codesign](./posts/2021-03-25-how-to-check-signing-certificates.md) | Codesigning remains a pain in the ass | `ios`, `xcode`, `command-line` |
 | 2021-03-18 | [How to know which shared libraries are used in a binary framework](./posts/2021-03-18-know-shared-libraries-used-in-binary-framework.md) | Use `otool -L` | `ios`, `xcode`, `command-line` |
